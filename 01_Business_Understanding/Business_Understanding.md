@@ -1,10 +1,17 @@
-1. Project Overview
+
+1. Project Overview: 
+
 This project simulates a real-world data analytics engagement for an e-commerce company ShopSphere.
+
 ShopSphere has accumulated large amounts of sales and customer data but lacks a system to transform that data into actionable insights.
+
 The project aims to build an analytics platform that helps management improve sales, customer retention, inventory planning, and strategic decision-making through dashboards, predictive models, and AI-powered recommendations.
 
-2. Client Background
+
+2. Client Background: 
+
 *ShopSphere*
+
 It's a medium-sized online marketplace that sells:
 - Electronics
 - Fashion
@@ -13,7 +20,9 @@ It's a medium-sized online marketplace that sells:
 - Sports
 - Books
 
-3. Business Problems
+
+3. Business Problems: 
+
 - Sales: 
 Revenue is inconsistent.
 Some categories are growing while others are declining.
@@ -34,7 +43,8 @@ Inventory planning is reactive.
 Popular products sometimes go out of stock.
 
 
-4. Business Objectives
+4. Business Objectives: 
+
 - Increase Revenue
 - Increase Profit
 - Improve Customer Retention
@@ -42,7 +52,9 @@ Popular products sometimes go out of stock.
 - Forecast Future Sales
 - Support Better Decisions
 
-5. Success Metrics (KPIs)
+
+5. Success Metrics (KPIs):
+
 - Revenue: Total Revenue, Revenue Growth %
 - Orders: Total Orders, Average Order Value
 - Customers: Customer Retention Rate, Repeat Purchase Rate
@@ -50,7 +62,9 @@ Popular products sometimes go out of stock.
 - Marketing: Conversion Rate, Discount Effectiveness
 - Operations: Inventory Turnover, Forecast Accuracy 
 
-6. Project Scope
+
+6. Project Scope:
+
 - Product Analysis
 - Sales Analysis
 - Customer Analysis
@@ -61,7 +75,9 @@ Popular products sometimes go out of stock.
 - Machine Learning Forecasting
 - AI Business Assistant
 
-7. Business Questions
+
+7. Business Questions: 
+
 Which products generate the most revenue?
 Which months perform best?
 Are there seasonal trends?
@@ -75,3 +91,4 @@ Which discount ranges perform best?
 What will next month's sales look like?
 Which products should be restocked?
 Can the system recommend business actions?
+

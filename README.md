@@ -1,4 +1,4 @@
-# E-Commerce Sales Analytics
+# E-Commerce Intelligence Business analytics
 
 ## Project Overview
 

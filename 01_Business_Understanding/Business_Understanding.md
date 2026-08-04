@@ -1,5 +1,5 @@
 
-1. Project Overview: 
+## 1. Project Overview: 
 
 This project simulates a real-world data analytics engagement for an e-commerce company ShopSphere.
 
@@ -8,9 +8,9 @@ ShopSphere has accumulated large amounts of sales and customer data but lacks a 
 The project aims to build an analytics platform that helps management improve sales, customer retention, inventory planning, and strategic decision-making through dashboards, predictive models, and AI-powered recommendations.
 
 
-2. Client Background: 
+## 2. Client Background: 
 
-*ShopSphere*
+# *ShopSphere*
 
 It's a medium-sized online marketplace that sells:
 - Electronics
@@ -21,7 +21,7 @@ It's a medium-sized online marketplace that sells:
 - Books
 
 
-3. Business Problems: 
+## 3. Business Problems: 
 
 - Sales: 
 Revenue is inconsistent.
@@ -43,7 +43,7 @@ Inventory planning is reactive.
 Popular products sometimes go out of stock.
 
 
-4. Business Objectives: 
+## 4. Business Objectives: 
 
 - Increase Revenue
 - Increase Profit
@@ -53,7 +53,7 @@ Popular products sometimes go out of stock.
 - Support Better Decisions
 
 
-5. Success Metrics (KPIs):
+## 5. Success Metrics (KPIs):
 
 - Revenue: Total Revenue, Revenue Growth %
 - Orders: Total Orders, Average Order Value
@@ -63,7 +63,7 @@ Popular products sometimes go out of stock.
 - Operations: Inventory Turnover, Forecast Accuracy 
 
 
-6. Project Scope:
+## 6. Project Scope:
 
 - Product Analysis
 - Sales Analysis
@@ -76,19 +76,31 @@ Popular products sometimes go out of stock.
 - AI Business Assistant
 
 
-7. Business Questions: 
+## 7. Business Questions: 
 
 Which products generate the most revenue?
+
 Which months perform best?
+
 Are there seasonal trends?
+
 Who are the highest-value customers?
+
 Who is at risk of not returning?
+
 Which customer segments spend the most?
+
 Which products have high ratings but low sales?
+
 Which products should be discontinued?
+
 Do discounts increase revenue or only reduce profit?
+
 Which discount ranges perform best?
+
 What will next month's sales look like?
+
 Which products should be restocked?
+
 Can the system recommend business actions?
 

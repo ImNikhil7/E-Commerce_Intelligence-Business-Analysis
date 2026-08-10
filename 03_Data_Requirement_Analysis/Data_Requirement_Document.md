@@ -233,6 +233,10 @@ Need
 - AI Summary
 
 
+### 12 Seller Domain
+
+Seller information
+
 3. Why Each Information Category Is Needed
 
 To know more about the trends and pattern for each domain.
@@ -327,3 +331,4 @@ Recommendation Acceptance Rate (future enhancement)
 | Internal Systems | ERP, CRM, POS Database                                               |
 | Cloud Storage    | AWS S3, Azure Blob                                                   |
 | Database         | MySQL, PostgreSQL                                                    |
+

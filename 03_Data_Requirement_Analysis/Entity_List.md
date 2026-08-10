@@ -42,9 +42,9 @@ Stores stock information.
 
 ---
 
-## Campaigns
+## Seller Acquisition / Marketing Funnel
 
-Stores marketing campaigns.
+Stores marketing Funnel.
 
 ---
 
